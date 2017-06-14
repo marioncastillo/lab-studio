@@ -59,9 +59,7 @@ h2{
 	font-weight: bold;
 	
 }
-#titulodos{
-	
-}
+
 .bajada{
 	font-size: 15px;
 	color: grey;
@@ -88,4 +86,27 @@ h2{
 
 .dos{
 	padding: 5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+/*seccion tres*/
+
+.tres{
+	background-color: #F0F0F0;
+	padding-bottom: 10%;
+	padding-top: 10%;
+}
+#cuadradas{
+	width: 100%;
+}
+
+.blanco{
+	background-color: white;
+	height: 10%;
+	width: 95%;
+}
+
+#arriba{
+	padding-bottom: 5%;
 }
