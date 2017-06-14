@@ -9,7 +9,7 @@
     color: #fff;
 }
 
-.navbar-default .navbar-left>li>a {
+#start{
     color: yellow;
     font-family: 'Kaushan Script', cursive;
     font-size: 200%;
@@ -19,19 +19,23 @@
 
 .primersection{
 	background-image: url(../img/header-bg.jpg);
-	height: 100vh;
+	padding-bottom: 15%;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 
 }
-.save{
+.titulos{
 	color: white;
-	font-weight: bold;
-	margin-top: 30%;	
+	margin-top: 18%;	
 }
 .dos{
-	font-size: 25px;
+	font-size: 300%;
+	
+}
+
+.its{
+	font-size: 500%;
 	font-weight: bold;
 	
 }
@@ -40,4 +44,48 @@
 	background-color: yellow;
 	color: white;
 	border:transparent;
+	width: 200px;	
+	height: 60px;
+	font-weight: bold;
+	font-size: 18px;
+	margin-top: 3%;
+}
+
+/*seccion dos*/
+
+h2{
+	font-size: 35px;
+	color: black;
+	font-weight: bold;
+	
+}
+#titulodos{
+	
+}
+.bajada{
+	font-size: 15px;
+	color: grey;
+	padding-bottom: 5%;
+}
+
+#titeseis{
+	font-weight: bold;
+}
+
+#icono{
+	background-color: yellow;
+	color: white;
+	border-radius: 50%;
+	padding: 5%;
+}
+#candado{
+	background-color: yellow;
+	color: white;
+	border-radius: 50%;
+	padding: 5%;
+	width: 23%;
+}
+
+.dos{
+	padding: 5%;
 }
