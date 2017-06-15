@@ -110,3 +110,67 @@ h2{
 #arriba{
 	padding-bottom: 5%;
 }
+
+/*seccion cuatro*/
+
+.imagenuno{
+	margin-bottom: 5%;
+}
+
+.imagendos{
+	margin-bottom: 5%;
+}
+
+.titulodos{
+	margin-top: 10%;
+}
+
+#circulo{
+	width: 150px;
+	height: 150px;
+	border: 5px solid #F0F0F0;
+}
+
+.parr{
+	margin-left: 30%;
+}
+
+#otrociiculo{
+	width: 100px;
+	height: 100px;
+	border: 5px solid #F0F0F0;
+
+}
+
+.parrdos{
+	margin-right: 30%;
+}
+
+#circulo2{
+	margin-right: 15px;
+	width: 150px;
+	height: 150px;
+	border: 5px solid #F0F0F0;
+}
+
+#circuloamarillo{
+	background-color: yellow;
+	color: white;
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+	border: 5px solid #F0F0F0;
+	font-weight: bold;
+	margin-right: 15px;
+}
+
+#circuloamarillo2{
+	background-color: yellow;
+	color: white;
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	border: 5px solid #F0F0F0;
+	font-weight: bold;
+	font-size: 12px;
+}
